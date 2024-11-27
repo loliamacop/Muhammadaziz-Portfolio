@@ -1,0 +1,7 @@
+export { default as insta } from '../assets/images/instagram.svg'
+export { default as github } from '../assets/images/github.svg'
+export { default as foto } from '../assets/images/foto.jpg'
+export { default as grayson } from '../assets/images/grayson.png'
+export { default as vue } from '../assets/images/vue.png'
+export { default as dburger } from '../assets/images/dburger.png'
+export { default as vector } from '../assets/images/Vector.svg'
